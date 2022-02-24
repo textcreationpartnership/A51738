@@ -1,0 +1,479 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The considerations which oblig'd Peter Manby dean of London-dery, to embrace the Roman Catholic religion humbly dedicated to His Grace the Lord Primate of Ireland.</title>
+            <author>Manby, Peter, d. 1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51738</idno>
+            <idno type="STC">Wing M384</idno>
+            <idno type="STC">ESTC R7924</idno>
+            <idno type="EEBO-CITATION">12639290</idno>
+            <idno type="OCLC">ocm 12639290</idno>
+            <idno type="VID">64986</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51738)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64986)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 697:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The considerations which oblig'd Peter Manby dean of London-dery, to embrace the Roman Catholic religion humbly dedicated to His Grace the Lord Primate of Ireland.</title>
+                  <author>Manby, Peter, d. 1697.</author>
+               </titleStmt>
+               <extent>[8], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed for Nath. Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Manby, Peter, d. 1697.</term>
+               <term>Church of England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64986:1"/>
+            <pb facs="tcp:64986:1"/>
+            <p>THE CONSIDERATIONS WHICH OBLIG'D PETER MANBY DEAN Of LONDON-DERY, TO EMBRACE THE Roman Catholic RELIGION.</p>
+            <p>Humbly Dedicated to His GRACE the Lord Primate of IRELAND.</p>
+            <q>
+               <bibl>PSALM <hi>XLII.</hi>
+               </bibl> Judica me Deus, &amp; diſcerne cauſam meam de Gente non ſancta. Emitte lucem tuam &amp; veritatem tuam. Ipſa me deduxerunt &amp; adduxerunt in Montem Sanctum tuum, &amp; in Tabernacula tua.</q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <hi>Dublin Caſtle</hi> 
+                              <date>the 11<hi rend="sup">th</hi>. of <hi>March</hi> 1686/7.</date>
+                           </dateline>
+                        </opener>
+                        <p>This following Diſcourſe is Allow'd to be Printed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Tho. Sheridan</hi> Secr.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Re-printed for NATH. THOMPSON at the Entrance into the <hi>Old Spring Garden</hi> near <hi>Charing Croſs.</hi> 1687.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:64986:2"/>
+            <pb facs="tcp:64986:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>VVHen a</hi> Proteſtant <hi>rehearſes this Article of his</hi> Creed, I believe one Holy Catholique and Apoſtolique Church, <hi>I would fain underſtand what Church he means? Whether the Church of</hi> England <hi>alone as eſtabliſh'd by Law, or the Church of</hi> England <hi>in Communion with other Churches? If the former, then his meaning is, I believe one Holy</hi> Pro<g ref="char:EOLhyphen"/>teſtant Church <hi>as ſettled in</hi> England <hi>by</hi> Act of Parliament. <hi>If the latter, I deſire to know, with what other Church under the Heavens does the Church of</hi> England <hi>Communicate in</hi> Sacraments <hi>and</hi> Liturgy? <hi>Whether with</hi> Lutherans, Calviniſts, Waldenſes <hi>or</hi> Greek Church? <hi>If with none of all theſe, why does he pretend to believe</hi> One Holy Catho<g ref="char:EOLhyphen"/>lique Church? <hi>This Church Eſtabliſh'd by Law being</hi> Catholique, <hi>neither as to Time, nor Place; becauſe not Viſible any where for many Ages before</hi> Edward VI.</p>
+            <p>
+               <hi>Good</hi> Reader, <hi>if we believe our ſelves</hi> Catholiques, <hi>let us not fancy to our ſelves a Church divided from all the reſt of the World. And there<g ref="char:EOLhyphen"/>fore I crave leave to ask St.</hi> Paul<hi>'s Queſtion,</hi> What? came the Word of God out from you <hi>(the eſtabliſh'd Church)</hi> or came it unto you alone? 1 <hi>Cor.</hi> 14.36. <hi>Hath the Divine Goodneſs left all the World in Darkneſs except our Iſland? And <g ref="char:V">Ʋ</g>s too, for ſo many Ages until</hi> Henry VIII. <hi>took a fancy to</hi> Ann Bolen? <hi>Is the</hi> Catholique Church <hi>dwindled away to the Church of</hi> England? <hi>Perhaps you will Anſwer me, that by</hi> One Holy Catholique Church, <hi>you underſtand all the variety of</hi> Proteſtants; <hi>as Church of</hi> England-men; Presbyterians, Lutherans, Independants, Anabaptiſts, Fifth-Monarchy-men, Quakers, <hi>&amp;c. But all theſe wanting that firſt and Eſſential Mark of the</hi> Catholique Church <hi>call'd</hi> Unity, <hi>cannot be That one Holy Society intended by our</hi> Creed. <hi>And
+<pb facs="tcp:64986:3"/>moreover, this makes</hi> Proteſtancy <hi>ſo wandring and uncertain a thing, that I for my part do not well underſtand it. Can you ſay that</hi> Lutherans <hi>and the Church of</hi> England-men <hi>are the ſame in all Material points, the</hi> Luthe<g ref="char:EOLhyphen"/>rans <hi>holding a</hi> Corporal Preſence <hi>in the</hi> Sacrament, <hi>and the Church of</hi> England <hi>denying it? Or that</hi> Calviniſts <hi>and good</hi> Proteſtants <hi>are the ſame in all neceſſary matters, the former having no Orders of</hi> Prieſts <hi>and</hi> Biſhops, <hi>conſequently no true</hi> Sacraments, <hi>nor Power of Binding, and Abſolving Sinners; Beſides, the</hi> Catholique Church <hi>can never fail: But as for thoſe</hi> Sects <hi>of</hi> Proteſtants, <hi>Who ever ſaw, or heard of them for many Ages before</hi> Henry VIII.</p>
+            <p>
+               <hi>Well, but you will inſiſt upon it that God hath his People amongſt all ſorts of</hi> Proteſtants; <hi>which Anſwer I have ſometimes heard out of the Mouths of</hi> Proteſtants. <hi>And it calls to my mind thoſe excellent words of the late King's ſecond Paper,</hi> viz. The <hi>Proteſtants</hi> are not of the Church of <hi>England</hi> as 'tis the true Church from whence there can be no Appeal, but becauſe the Diſcipline of that Church is conformable at that pre<g ref="char:EOLhyphen"/>ſent to their Fancies, which as ſoon as it ſhall contradict, or vary from, they are ready to embrace or joyn with the next Congrega<g ref="char:EOLhyphen"/>tion of People, whoſe Diſcipline or Worſhip agrees with their own Opinion at that time, <hi>&amp;c. And further, it brings into my remembrance theſe words of a certain Perſon, once of my Acquaintance; he was a</hi> Preſ<g ref="char:EOLhyphen"/>byterian, <hi>and gave his Son leave to go for</hi> New-England <hi>to ſeek his For<g ref="char:EOLhyphen"/>tune.</hi> Why, <hi>ſaid a Friend of his,</hi> they are all <hi>Independants</hi> there, and your Son will be in danger of loſing his Principles: I care not what he be, <hi>reply'd the other,</hi> ſo he be not a <hi>Papiſt.</hi>
+            </p>
+            <p>
+               <hi>In a word</hi> (<hi>dear</hi> Reader) <hi>it concerns thee to underſtand aright that Article of thy</hi> Creed, I believe one Holy Catholique and Apoſtolique Church; <hi>Becauſe the only way to be at reſt in this World, and happy in the World to come, is to find out that Church upon whoſe Authority thou mayſt relie.</hi> Noah<hi>'s Dove found no reſt for the ſole of her Foot, until ſhe return'd into the</hi> Ark. <hi>No more wilt Thou, but ſhalt be toſſed too and fro upon the unſtable Waters of</hi> Schiſm, <hi>until thou return into the</hi> Ark <hi>of one</hi> Holy Catholique Church. <hi>I pray recollect what St.</hi> Paul <hi>admoniſhes con<g ref="char:EOLhyphen"/>cerning</hi> Schiſm. I beſeech you Brethren by the Name of our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, that ye all ſpeak the ſame thing, and that there be no <hi>Schiſms</hi> among you, 1 <hi>Cor.</hi> 1.15. But that ye glorifie God with one Mind, and one Mouth: <hi>That is, that ye ſerve God, not only ſaying the
+<pb facs="tcp:64986:3"/>ſame things, but the ſame Words, eſpecially about your</hi> Sacraments <hi>and</hi> Liturgy. <hi>For by one Spirit We</hi> (<hi>meaning all</hi> Chriſtians,) <hi>are Baptiz'd into one Body. Therefore he exhorts them to take heed of ſuch Teachers as have no</hi> Miſſion <hi>or Authority for what they ſay, but only</hi> good Words and fair Speeches to deceive the hearts of the ſimple.</p>
+            <p>
+               <hi>In the following Diſcourſe, I hope the</hi> Reader <hi>ſhall find it briefly, and yet fully made out to him, that the first</hi> Reformers <hi>had no</hi> Miſſion <hi>for what they did; nor any pretence to juſtifie their</hi> Seperation <hi>and breach of</hi> Unity, <hi>but only the Scripture as interpreted by themſelves, not only without, but againſt the Authority of the preſent</hi> Catholique Church: Out of which a man may have all things, except Salvation, <hi>ſaid St.</hi> Auguſtin. <hi>And further he ſhall find me preſſing for an Anſwer to ſuch Queſtions as theſe,</hi> viz.</p>
+            <p>What Prieſthood or Holy Orders had the firſt Reformers, but what they received from the Hands of <hi>Roman Catholick Biſhops?</hi>
+            </p>
+            <p>Whether a <hi>Presbyterian Miniſter,</hi> having received Orders from a <hi>Proteſtant Biſhop,</hi> can by virtue of ſuch Orders pronounce the Church of <hi>England</hi> a corrupt Church?</p>
+            <p>Whether <hi>Cranmer</hi> and his Aſſociates could condemn the Church of <hi>Rome</hi> by pretence of the <hi>Miſſion</hi> they received from her <hi>Biſhops.</hi>
+            </p>
+            <p>Whether an Act of Parliament in <hi>France, Spain,</hi> or <hi>Germany,</hi> be not as good an Authority for <hi>Popery</hi> there, as in <hi>England</hi> for <hi>Pro<g ref="char:EOLhyphen"/>testancy?</hi> And in caſe there, be no Judge to determine, who have the true ſenſe of Scripture, <hi>Roman Catholicks</hi> or <hi>Proteſtants.</hi> Whether the <hi>Catholick</hi> ſenſe be not as good as the <hi>Proteſtants?</hi>
+            </p>
+            <p>
+               <hi>Finally, I intreat the</hi> Proteſtant <hi>Reader to peruſe Dr.</hi> Heylin<hi>'s Hiſtory of the</hi> Reformation, <hi>a Book that ſpeaks bitterly enough againſt</hi> Popery; <hi>yet as to matter of Fact, ſo Honeſtly written, that, notwithſtanding all Dr.</hi> Burnet<hi>'s induſtry to diminiſh its credit, it hath opened the Eyes of many good</hi> Proteſtants. <hi>See Dr.</hi> Burnet<hi>'s character of it in his</hi> Preface <hi>to his firſt Volume, where he cenſures it not for telling untruths in matter of Hiſtory, but rather for ſpeaking too much truth.</hi> He doubts not but Dr. <hi>Heylin</hi> was a ſincere <hi>Proteſtant,</hi> but violently carried away by ſome particular conceits, (<hi>theſe are</hi> Burnet<hi>'s words,</hi>) and is not to be
+<pb facs="tcp:64986:4"/>excus'd that he never vouched any Authority for what he writ, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>This is the worſt he could ſay, and 'tis an untruth that</hi> Heylin <hi>writ u<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> uncertain grounds, as Dr.</hi> Burnet <hi>would inſinuate. For thus</hi> Heylin <hi>him<g ref="char:EOLhyphen"/>ſelf will ſatisfie the</hi> Reader <hi>in the</hi> Preface <hi>to his</hi> Hiſtory, <hi>viz.</hi> As fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my performance in this work; in the firſt place I am to tell thee, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> towards the raiſing of this Fabrick, I have not borrowed my Materi<g ref="char:EOLhyphen"/>als only out of vulgar Authors, but ſearched into the Regiſters of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Convocation, conſulted all ſuch Acts of Parliament as concern'd <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> purpoſe, advis'd with many Foreign Writers of great Name and Credit, exemplified ſome Records and Charters of no common Qua<g ref="char:EOLhyphen"/>lity, many rare Pieces in the Famous <hi>Cottonian</hi> Library, and not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> few Debates and Orders of the Council Table: And next I am to l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thee know, that in the whole carriage of this Work, I have aſſum'd unto my ſelf the freedom of a juſt Hiſtorian, delivering nothing for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Truth without good Authority; but ſo delivering the Truth as t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> witneſs for me, that I am neither byas'd by Love, or Hatred. If I ſeem ſharp at any time, as ſometimes I may, it is but in ſuch caſe only, and on ſuch occaſions in which there is no good to be done b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> lenitives, <hi>&amp;c. I have tranſcribed this paſſage, leaſt the</hi> Reader <hi>ſhoul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be impos'd on by</hi> Burnet<hi>'s Character of the Ingenious</hi> Heylin, <hi>who<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Hiſtory <hi>he would diſparage to advance the Reputation of his own. And pray the</hi> Reader <hi>to obſerve, that Dr.</hi> Burnet <hi>does not inſtance one paſſage of any moment in all</hi> Heylin<hi>'s Works, wherein that he dares ſay he is falſe which certainly he would have done, had he found any ſuch.</hi> But he de<g ref="char:EOLhyphen"/>livers many things in ſuch a manner and ſo ſtrangely, that on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would think (<hi>ſays</hi> Burnet) he had been ſecretly ſet on by thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Church of <hi>Rome,</hi> though I doubt not but he was a ſincere Pro<g ref="char:EOLhyphen"/>teſtant, <hi>&amp;c. But what ſort of People they were who ſet on Dr.</hi> Burnet<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>write his</hi> Hiſtory <hi>is very well known. I will inſtance ſome paſſages out <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Heylin, <hi>which I ſuppoſe did not pleaſe Dr.</hi> Burnet, <hi>viz.</hi> All that wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> done in order to a Reformation under <hi>Henry VIII.</hi> ſeem'd to be acci<g ref="char:EOLhyphen"/>dental only, and by the by; rather deſign'd on private ends that out of any ſettled purpoſe to Reform the Church, and therefore in<g ref="char:EOLhyphen"/>termitted and re-aſſum'd again as thoſe ends had variance. But no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the work was carried on with a conſtant hand, (under <hi>Edward VI.</hi> the Prelates of the Church co-operating with the King and his Coun<g ref="char:EOLhyphen"/>cil, <hi>&amp;c.</hi> And ſcarce had they brought it to this paſs when King <hi>Edward</hi> died, whoſe death I cannot reckon for an Infelicity to the Church of <hi>England, (ſaith the Doctor.)</hi> For being ill Principl'd i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:64986:4"/>himſelf, and eaſily inclin'd to embrace ſuch Councils as were offer'd to him, it is not to be thought but that the reſt of the Biſhopricks (before ſufficiently impoveriſh'd,) muſt have followed the Fate of <hi>Durham,</hi> and the poor Church left as deſtitute of Lands and Orna<g ref="char:EOLhyphen"/>ments, as when ſhe came into the World in her natural nakedneſs. Nor was it like to happen otherwiſe in the following Reign, (<hi>to wit, of the Lady</hi> Jane Grey) if it had laſted longer then nine days wonder. For <hi>Dudly</hi> Duke of <hi>Northumberland,</hi> who then rul'd the roaſt, and had before diſſolv'd, and in hope devour'd the Wealthy Biſhoprick of <hi>Durham,</hi> might eaſily have poſſeſs'd himſelf of the Biſhopricks of <hi>York</hi> and <hi>Carliſle,</hi> &amp;c. <hi>Dudly</hi>'s Son was Married to the ſaid Lady <hi>Jane,</hi> Proclaim'd Queen, to maintain whoſe Intereſt and Title, the poor remainder of the Churches Patrimony was in all probability <hi>(ſays Heylin)</hi> to have had been ſhar'd amongſt thoſe of that Party to make 'em ſure; but the Wiſdom of this great <hi>Achitophel (Dudley)</hi> be<g ref="char:EOLhyphen"/>ing turn'd to fooliſhneſs, he fell into the hands of the publick Hang<g ref="char:EOLhyphen"/>man, <hi>&amp;c.</hi> Reader, <hi>Behold the ſpirit of</hi> Reformation <hi>which governed thoſe times. They are</hi> Heylin<hi>'s own words.</hi>
+            </p>
+            <p>
+               <hi>But what is all this (you will ſay) to</hi> Cranmer, <hi>and other Clergy-men, whoſe intentions of</hi> Reformation <hi>were ſincere and honeſt? As for</hi> Cran<g ref="char:EOLhyphen"/>mer, <hi>then, you may judge of his ſpirit by what I ſhall remark to you out of Doctor</hi> Burnet<hi>'s Records. Only obſerve the Duke of</hi> Somerſet<hi>'s Hiſtory in ſhort,</hi> (<hi>thus out of</hi> Heylin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) Being condemn'd to die by his own Bre<g ref="char:EOLhyphen"/>thren of the Reformation, he was ſo defective in his judgement, as not to crave the benefit of his Clergy which might have ſaved his life: Whether it were ſome ſecret judgement on him from above, that he who had deſtroyed ſo many Churches, invaded the Eſtate of many Cathedrals, deprived many learned men of their means and livelihood <hi>(for being Papiſts)</hi> ſhould want the benefit of his Clergy in his greateſt extremity, <hi>&amp;c. Obſerve the remarkable Fates of thoſe grand</hi> Reformers. <hi>Now as for</hi> Cranmer<hi>'s ſpirit, take notice of it from his own words recorded by Dr.</hi> Burnet; <hi>which the</hi> Reader <hi>may conſult, to ſave me the labour of tranſcribing, one or two Paſsages I cannot omit:</hi> Cran<g ref="char:EOLhyphen"/>mer, <hi>with the reſt of the</hi> Engliſh Biſhops, <hi>being deſir'd to return their Anſwers ſeverally to this Queſtion;</hi> Whether in the <hi>New Teſtament</hi> be required any Conſecration of a Biſhop or Prieſt? Cranmer <hi>Anſwers thus under his hand,</hi> viz. In the <hi>New Ieſtament,</hi> he that is appointed to be a Prieſt or Biſhop, needeth no Conſecration by the Scripture,
+<pb facs="tcp:64986:5"/>for Election thereunto is ſufficient. <hi>In which aſſertion all the rest of the Biſhops, except one, were againſt him.</hi>
+            </p>
+            <p>
+               <hi>And being conſulted about another Queſtion,</hi> Whether Biſhops and Prieſts only may Excommunicate by Gods Law? <hi>To which he returns this Anſwer under his Hand,</hi> viz. A Biſhop or Prieſt, by the Scrip<g ref="char:EOLhyphen"/>ture, is neither commanded nor forbidden to Excommunicate, but where the Laws of any Country give them Authority to Excommuni<g ref="char:EOLhyphen"/>cate, there they ought to uſe the ſame in ſuch Crimes as the Laws have ſuch Authority in. And where the Laws of the Country forbid them, there they have no Authority at all. And they that be no Prieſts may alſo Excommunicate, if the Law allow thereunto. <hi>Here he had the ſpirit of</hi> Hobbs <hi>of</hi> Malmsbury.</p>
+            <p>
+               <hi>And about another Queſtion, whether by Authority of Christ's words,</hi> Quorum remiſeritis peccata, remittuntur illis, Chriſtians are bound to confeſs their ſecret ſins to a Prieſt? <hi>He anſwered in the Negative againſt all the reſt of the Biſhops, except one. Let the</hi> Reader <hi>conſult</hi> Burnet, <hi>and compare him with</hi> Heylin; <hi>in both which it will appear, that the</hi> Grand Reformers, Somerſet, Dudley, <hi>&amp;c. Made their Breakfaſt only of</hi> Abby Lands, <hi>intending to Dine upon the</hi> Biſhops Lands. Burnet <hi>ſtrains all his wit to palliate their Doings, and paint them out to Advantage.</hi> Heylin <hi>repreſents them honeſtly for the moſt part, and in their own colours; and in my poor opinion, writes more Truth, and better.</hi> Engliſh: <hi>He was full of a Generous Indignation to ſee ſo much Stripping and Plundering of God's Houſe under pretence of Reſorming it.</hi>
+            </p>
+            <epigraph>
+               <q>Tu abominaris Idola &amp; Sacrilegium facis.</q>
+               <bibl>
+                  <hi>Rom.</hi> 1. 22.</bibl>
+            </epigraph>
+            <closer>
+               <salute>FAREWEL.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:64986:5"/>
+            <opener>May it pleaſe your Grace,</opener>
+            <p>
+               <hi>I</hi> Humbly beg leave to ſend Your Grace this ſhort Account of my Reconcilement to the <hi>Roman Catholick Church.</hi> God be praiſed it was not any conſideration of Temporal Intereſt that inclin'd me to it, as all that have known me theſe ſeveral years paſt can witneſs. But having often reflected on the uncertainty and variety of the <hi>Proteſtant Spirit,</hi> and peruſed the <hi>Books</hi> of <hi>Catholicks</hi> without prejudice, eſpecially the <hi>Maſs</hi> it ſelf, I found my ſelf deceiv'd by the Reports which I had entertain'd of <hi>Catholick Religion.</hi>
+            </p>
+            <p>THere are three Points chiefly wherein I could never ſatisfy my ſelf, ſince I began to Study the Controverſy between both Churches. One is the Authority or <hi>Miſſion</hi> of the firſt Reformers. The ſecond is the want of <hi>Confeſſion</hi> in the Church of <hi>England.</hi> The Third is the Anſwer given by <hi>Proteſtants</hi> to that Queſtion in His late Majeſties Papers, <hi>Where is that one Holy Catholick and Apoſtolick Church which we do profeſs to believe in the two</hi> Creeds.</p>
+            <p>As to the firſt, I have ſeen Dr. <hi>Bramhall</hi>'s and Mr. <hi>Maſon</hi>'s Vindi<g ref="char:EOLhyphen"/>cations of the Church of <hi>England;</hi> but could never find any ſatiſ<g ref="char:EOLhyphen"/>factory Anſwer to this Queſtion, Who Authoriz'd the firſt <hi>Reformers</hi> to Preach their <hi>Proteſtant Doctrine,</hi> and Adminiſter their <hi>Proteſtant Sacraments?</hi> Their <hi>Prieſtly</hi> or <hi>Epiſcopal Character,</hi> whether valid or no, I meddle not with to prevent Diſputes: Although I think it no eaſy matter to find out who Ordain'd the firſt <hi>Proteſtant Biſhops;</hi> there being none to do it except <hi>Roman Catholick Prelates,</hi> who never uſe to Conſecrate any <hi>Proteſtants.</hi> This Teſtimony I lately met with in the <hi>Records</hi> annexed to Dr. <hi>Burnet</hi>'s ſecond Volume of his <hi>Hiſtory of the Reſormation.</hi>
+            </p>
+            <p>In the Month of <hi>March anno</hi> 1553. Queen <hi>Mary</hi> ſent this, amongſt other <hi>Articles,</hi> to the Biſhop of <hi>London,</hi> viz. <hi>Touching ſuch perſons as were heretofore</hi> (meaning the days of <hi>Edward</hi> the VI.) <hi>promoted to any Orders after the new ſort and faſhion of Orders, conſidering they were not order'd in very deed; the Biſhop of the Dioceſs finding otherwiſe, ſufficiency,
+<pb n="2" facs="tcp:64986:6"/>and ability in thoſe men, may ſupply that thing which wanted in them be<g ref="char:EOLhyphen"/>fore, and then according to his diſcretion admit them to Miniſter,</hi> &amp;c. This Royal Teſtimony, with the Honeſt <hi>Proteſtant Reader,</hi> will not be deſpiſable. I ſhall not inſiſt upon it, but only obſerve at preſent, that <hi>Cranmer,</hi> Archbiſhop of <hi>Canterbury,</hi> and <hi>Latimer</hi> Biſhop of <hi>Wor<g ref="char:EOLhyphen"/>ceſter,</hi> at the time of their Confecration were profeſs'd <hi>Roman Catho<g ref="char:EOLhyphen"/>licks</hi> in all points, except. perhaps the <hi>Pope</hi>'s <hi>Supremacy;</hi> But after<g ref="char:EOLhyphen"/>wards turning <hi>Proteſtants,</hi> and pronouncing the Church of <hi>Rome Ido<g ref="char:EOLhyphen"/>latrous,</hi> I would fain know by whoſe Authority.</p>
+            <p>The truth is, they were firſt Ordain'd <hi>Catholick Biſhops</hi> according to the <hi>Roman Pontifical,</hi> and afterwards made themſelves <hi>Proteſtant Biſhops.</hi> But I underſtand not how a Man can forſake the Church of <hi>England,</hi> and Preach <hi>Presbyterian Doctrine</hi> by virtue. of his <hi>Proteſtant Orders;</hi> nor how any man can juſtify his <hi>Protestant Doctrine</hi> by Au<g ref="char:EOLhyphen"/>thority of his <hi>Popiſh Miſſion.</hi>
+            </p>
+            <p>This was <hi>Cranmer</hi> and <hi>Latimer</hi>'s caſe, who at the time of their. Conſecration (which was in the days of <hi>Henry</hi> the VIII.) profeſſed <hi>Seven Sacraments;</hi> whether they believ'd ſo many, is a Queſtion: Afterwards, <hi>anno</hi> 1536. retrenched them to Three, that is to ſay. <hi>Baptiſm, Penance,</hi> and the <hi>Lord's Supper:</hi> Then to Two, <hi>anno</hi> 1548 By whoſe Authority or Miſſion, I cannot tell. So that <hi>Proteſtancy</hi> ſeem to me to have been born into the World not like Honeſtly begotte Children, whoſe Parents are known, but rather like a By-blow whoſe Father is doubtful. I have known ſome <hi>Pre byrerians;</hi> when queſtion'd about their <hi>Miſſion,</hi> pretend they did receive it from the Church of <hi>England</hi> Prelates; But being further interrogated, <hi>Did that Church Authorize you to Preach againſt her</hi> Sacraments <hi>or</hi> Liturgy? There was no Anſwer to be had. I know it will be ſaid that the <hi>Proteſtant Religion</hi> is Authoriz'd by <hi>Act of Parliament,</hi> and ſo is not <hi>Presbytery.</hi> A <hi>Parliamentary Miſſion</hi> then our firſt <hi>Reformers</hi> had, and no other that I can find. But whether the <hi>Parliament,</hi> being a Civil Authority, has Power to ſend <hi>Miſsioners</hi> to Preach the <hi>Goſpel,</hi> and Adminiſter <hi>Sacraments,</hi> I do not well underſtand. If they have I ſuppoſe every Member of <hi>Parliament</hi> may Preach, and Adminiſter <hi>Sacraments</hi> if he pleaſes; becauſe no man can give that Authority un<g ref="char:EOLhyphen"/>to others which he hath not himſelf. And if <hi>Engliſh Parliaments</hi> may Preach, and Adminiſter <hi>Sacraments,</hi> I doubt not but the <hi>French, Spaniſh, Scotch,</hi> and <hi>Iriſh</hi> may do the ſame; and then what Unity of Spirit, or agreement in Faith <hi>Christians</hi> are like to have, I could never under<g ref="char:EOLhyphen"/>ſtand.</p>
+            <p>
+               <pb n="3" facs="tcp:64986:6"/>To this, two Anſwers are wont to be given, which I will not con<g ref="char:EOLhyphen"/>ceal from the <hi>Reader.</hi> One is, that <hi>Cranmer</hi> and his Aſſociates were ſent and <hi>ordered</hi> by the <hi>Roman Pontifical</hi> to inſtruct the people accor<g ref="char:EOLhyphen"/>ding to the <hi>Scriptures.</hi> This is the Anſwer of Dr. <hi>Burnet. The Church</hi> (ſaith he) <hi>was over-run with Errours and Corruptions; this</hi> Cranmer <hi>ſaw, and was obliged to undeceive the people!</hi> Very good. But I intreat the <hi>Reader</hi> to inſpect the Records aforeſaid, publiſhed by the Doctor himſelf, and annexed to the firſt and ſecond Volume of his Hiſtory: where he ſhall find <hi>Cranmer,</hi> and one or two Biſhops more pretending <hi>Errours</hi> and <hi>Corruptions,</hi> and driving on a <hi>Reformation</hi> againſt the <hi>Ma<g ref="char:EOLhyphen"/>jor</hi> Vote of the <hi>Engliſh</hi> Biſhops. He ſhall find the ſame <hi>Cranmer</hi> at the time of his Conſecration, owning and profeſſing thoſe very Doctrines which afterwards he called <hi>Errours</hi> and <hi>Corruptions;</hi> ſo that ſtill I muſt ask the old Queſtion, by whoſe <hi>Authority</hi> did he condemn that Church from whom he receiv'd his <hi>Miſſion</hi> and <hi>Holy Orders?</hi> I deſire to know whether an honeſt Man can Preach againſt the <hi>Liturgy, Sa<g ref="char:EOLhyphen"/>craments,</hi> or Conſtitution of any Church, by virtue of any Commiſſi<g ref="char:EOLhyphen"/>on he received from it? And whether ſuch Preacher be not liable to the Cenſures of that Church? Did ever any Church Authorize her Prieſts or Biſhops to go and Preach the Goſpel according to their own private Senſe and Conſcience, in contradiction to her declared Do<g ref="char:EOLhyphen"/>ctrine and Worſhip; Does the Church of <hi>England</hi> give any ſuch Power at this day? No, by no means. Read the <hi>Form</hi> appointed by her for the Ordination of a Prieſt, where the Biſhop is to interrogate the Party thus, <hi>viz. Do you think in your heart, that you be truly called according to the Order of this Church of</hi> England, <hi>to the Order and Mini<g ref="char:EOLhyphen"/>ſtry of Prieſthood?</hi> The Anſwer is, <hi>I think ſo. Will you then</hi> (ſaith the Proteſtant Biſhop) <hi>give your diligence always to Miniſter the Doctrine and Sacraments as this Church and Realm hath received the ſame according to the Commandments of God?</hi> The Anſwer is, <hi>I will do ſo by the help of God.</hi>
+            </p>
+            <p>So that, as no honeſt Man can turn <hi>Presbyterian</hi> or <hi>Independant.</hi> Preacher, by virture of his <hi>Proteſtant Miſſion;</hi> ſo neither can he Preach <hi>Proteſtant Doctrine,</hi> by pretence of a Commiſſion he received from the Church of <hi>Rome.</hi> If any body ſhould ask me, what if the. Church be manifeſtly corrupted with <hi>Superſtition</hi> and <hi>Idolatry?</hi> In this caſe, why may not able Men Preach without any <hi>Miſſion?</hi> I muſt beg leave to ask him again, what if the Church finds thoſe Men of Abilities manifeſtly intoxicated with miſtakes of Holy <hi>Scripture?</hi>
+               <pb n="4" facs="tcp:64986:7"/>With a Spirit of perverſeneſs, and a deſire of change? Or perhaps an evil Eye at the Lands of the Church? What is to be done in this caſe? Let the <hi>Scripture</hi> (he will ſay) determine the buſineſs: But the <hi>Scrip<g ref="char:EOLhyphen"/>ture</hi> admits of various Interpretations: and I would fain know what <hi>Rebel</hi> or <hi>Heretick</hi> ſhall ever be convicted, that muſt be tryed by a Law whereof himſelf muſt be the Interpreter.</p>
+            <p>Well, but <hi>Cranmer,</hi> tho' he had no <hi>Miſſion</hi> to <hi>Reform,</hi> was perhaps a Holy Man: as for his Sanctity, the <hi>Reader</hi> may be pleaſed to ſee him ſubſcribing to a Letter in <hi>Foxes Acts and Monuments</hi> for Exclu<g ref="char:EOLhyphen"/>ding his Lawful Sovereign the Princeſs <hi>Mary,</hi> from Succeſſion to the Crown: And afterwards Recanting the <hi>Proteſtant Religion,</hi> and re<g ref="char:EOLhyphen"/>lapſing into it again, when he ſaw no hopes of a Reprieve. The truth is, when I reflect that <hi>Cromwel</hi> and He were the chief Engineers of the <hi>Reformation,</hi> firſt to Divorce <hi>Henry</hi> VIII. from his moſt Virtu<g ref="char:EOLhyphen"/>ous and Innocent Wife Queen <hi>Katherine,</hi> then to Marry him to <hi>Anne Bolen,</hi> and afterwards to diſſolve that Marriage: Then to deſtroy <hi>Religious Houſes,</hi> and hang up the poor <hi>Abbots;</hi> disband four or five <hi>Sacraments;</hi> ſet the People a madding after new Lights: I cannot but look upon thoſe two <hi>Politicians</hi> as the Ring-leaders of all that Confuſion and Miſchief, which has ſince broke out upon the Stage of Great <hi>Britain.</hi>
+            </p>
+            <p>So much for the former Anſwer, that <hi>Cranmer</hi> and his Aſſociates were ſent, and ordain'd by the <hi>Roman Pontifical</hi> to teach the People accor<g ref="char:EOLhyphen"/>ding to the <hi>Scriptures,</hi> which they did according to their <hi>own Senſe</hi> of the <hi>Scriptures.</hi>
+            </p>
+            <p>If it be ſaid that he Preach'd no new Doctrine, nor Adminiſtred any new <hi>Sacraments,</hi> but only the <hi>Primitive Doctrine</hi> and <hi>Sacraments</hi> of <hi>Jeſus Chriſt,</hi> according to the <hi>Senſe</hi> of the Antient <hi>Fathers,</hi> which is the ſecond Anſwer: I pray the <hi>Reader</hi> to remember, that this was the very Anſwer of <hi>Luther, Socinus, Zuinglius, Calvin,</hi> and other <hi>Re<g ref="char:EOLhyphen"/>formers.</hi> I am not diſputing what Doctrine he Preach'd, but who ſent him to Preach his <hi>Proteſtant Doctrine,</hi> and Adminſter his <hi>Prote<g ref="char:EOLhyphen"/>ſtant Sacraments?</hi> 'Tis not his Doctrine, but <hi>Miſſion</hi> I am now enqui<g ref="char:EOLhyphen"/>ring after. <hi>How ſhall they Preach except they be ſent?</hi> ſaith St. <hi>Paul.</hi> 'Tis not a pretence of true Doctrine, without External and Lawful <hi>Miſ<g ref="char:EOLhyphen"/>ſion,</hi> that makes a Man a Preacher of the Goſpel. The neceſſity of <hi>Miſſion</hi> appears from God's own word, <hi>Jerem.</hi> 23. <hi>I have not ſent theſe Prophets, yet they ran; I have not spoken to them, yet they Prophe<g ref="char:EOLhyphen"/>ſied,</hi> verſ. 21. <hi>Therefore they ſhall not profit this People at all, ſaith the Lord,</hi> verſe 32.</p>
+            <p>
+               <pb n="5" facs="tcp:64986:7"/>There are but two ſorts of <hi>Miſsion</hi> in Holy <hi>Scripture,</hi> the one Or<g ref="char:EOLhyphen"/>dinary, the other Extraordinary: The former is the Licenſe and Ap<g ref="char:EOLhyphen"/>probation of the Church in being: The latter is the immediate Voice and Inſpiration of God himſelf, ever atteſted by <hi>Miracles,</hi> Predicti<g ref="char:EOLhyphen"/>on of future and publick Events, <hi>&amp;c.</hi> Now, as for the firſt Preachers of <hi>Reformation,</hi> ſome body muſt ſend them by an Ordinary or Extra<g ref="char:EOLhyphen"/>ordinary Commiſſion, or they muſt run on their own heads. <hi>Fur &amp; latro eſt</hi> (ſays <hi>St.</hi> Cyprian) <hi>qui à nemine Miſsus niſi à ſeipſo:</hi> That is to ſay, he enters not by the Dore as honeſt Men do, but ſeeks Win<g ref="char:EOLhyphen"/>dows, Corners, or By-ways of his own; as if the Divine Providence were wanting (when neceſſity requires) to ſend Preachers into the Church, or to furniſh them with ſufficient <hi>Credentials,</hi> ſo as to leave us without excuſe. Did not the Hand of God ſtrike <hi>
+                  <g ref="char:V">Ʋ</g>zzah</hi> with ſudden death, for preſuming to put forth his hand, un-commanded, to ſupport the <hi>Ark</hi> from falling, 2 <hi>Sam.</hi> 6. And King <hi>
+                  <g ref="char:V">Ʋ</g>zzah</hi> with a <hi>Leaproſy</hi> to the day of his death, for Offering <hi>Incenſe</hi> which apper<g ref="char:EOLhyphen"/>tain'd to the Prieſts alone? Are not theſe things Recorded for our inſtruction?</p>
+            <p>The not conſidering this matter, hath brought a World of con<g ref="char:EOLhyphen"/>fuſion upon theſe Kingdoms; and till the people can be brought to underſtand it, we are never like to ſee an end of our Religious Di<g ref="char:EOLhyphen"/>ſtractions. For why may not I (may a <hi>Presbyterian</hi> Miniſter ſay) ha<g ref="char:EOLhyphen"/>ving the ſame Authority of <hi>Scripture</hi> as <hi>Cranmer</hi> pretended to, Preach againſt the <hi>Superſtition</hi> of <hi>Common-Prayer,</hi> as well as He againſt the <hi>Idolatry</hi> of the <hi>Maſs.</hi>
+            </p>
+            <p>The ſecond point wherein I was diſatisfy'd, was the want of <hi>Con<g ref="char:EOLhyphen"/>feſsion</hi> to a Prieſt. I found <hi>Proteſtant Sermons</hi> had ſome Authority with the people, but not much for lack of this <hi>Curb</hi> upon their Vi<g ref="char:EOLhyphen"/>ces, <hi>Catholicks</hi> commit ſin, 'tis true: but call themſelves to an ac<g ref="char:EOLhyphen"/>count for it, by <hi>Confeſsion</hi> and <hi>Submiſsion</hi> to their <hi>Ghoſtly Fathers. Proteſtants</hi> ſin likewiſe, without calling themſelves to any ſuch recko<g ref="char:EOLhyphen"/>ning; becauſe they can make a ſhift without it.</p>
+            <p>I have divers times diſcourſed with <hi>Proteſtant Miniſters,</hi> and ſome <hi>Proteſtant Biſhops</hi> about this matter. I was ſorry to find no Harmony in their Opinions. Some ſaid it was a thing allow'd by the Church of <hi>England,</hi> as very expedient in ſome caſes, but no matter of ne<g ref="char:EOLhyphen"/>ceſſity. Others thought it but a <hi>Pick-Lock</hi> of ſecrets, and a matter of ill conſequence. But when I urg'd that the Church of <hi>England</hi>
+               <pb n="6" facs="tcp:64986:8"/>ſeems to require it in her Offices for the Communion and Viſitation of the Sick; the reply was, ſhe does it with this <hi>Proviſo, If a man be troubled with any doubts or ſcruples;</hi> Which reply did but add more to my diſſatisfaction: For thought I, is <hi>Confeſſion</hi> nothing elſe but to be reſolv'd in our ſcruples and doubts? I have ſometimes wiſh'd her Exhortation before the Communion, otherwiſe worded, then ſaying, <hi>If there be any of you which cannot quiet his own Conſcience, let him come to Me, or ſome other Learned Miniſter of Gods Word, and open his grief,</hi> &amp;c. Which words ſeem to allow as much, as that ſinners may ſatisfy their own Conſciences well enough without troubling themſelves for the <hi>Abſolution</hi> of a <hi>Priest,</hi> although a <hi>Priest</hi> may be had.</p>
+            <p>In ſhort, I confeſs my dulneſs underſtands neither the Piety nor Policy of leaving off the practiſe of a <hi>thing</hi> ſo approv'd and frequented by all the Chriſtian World, except the people of our Iſlands, and ſome few others that call themſelves <hi>Reformed.</hi> And that only for ſome <hi>Abuſes</hi> which poſſibly may attend it. By this means the Church of <hi>England</hi> appears to me to have loſt that Intereſt in the Conſciences of the People, which both the <hi>Roman</hi> and <hi>Greek Prieſts</hi> are happy in at this day.</p>
+            <p>And what if ſome <hi>Catholicks</hi> are never the better for it? What are many <hi>Proteſtants</hi> the better for all the <hi>Sermons</hi> they hear, and <hi>Sacra<g ref="char:EOLhyphen"/>ments</hi> they receive? <hi>If we confeſs our ſins, God is faithful, and juſt to forgive us our ſins,</hi> ſaith St. <hi>John.</hi> Faithful and juſt to what? Even to his own promiſe which he hath thrice repeated in the <hi>Goſpel, Who<g ref="char:EOLhyphen"/>ſoevers ſins ye remit, they are remitted unto them.</hi> But another promiſe, that he will do it without the Miniſtry of his <hi>Prieſts,</hi> we read not of in the <hi>New Testament.</hi> I pray the <hi>Reader</hi> to conſider whether private Sinners in the Church of <hi>England</hi> do not offend God at a much cheaper rate then in the Church of <hi>Rome;</hi> ſince in the Church of <hi>Rome</hi> they are bound to ſome Penance: But in the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> they may Confeſs to their <hi>Miniſters,</hi> and do <hi>Penance</hi> if they will; or if they will not, they may let it alone. <hi>If they cannot ſatisfie their own Conſciences</hi> (ſaith the <hi>Common-prayer</hi>) <hi>let them come to me, or ſome other Diſcreet and Learned Miniſter, and open their Grief,</hi> &amp;c. That <hi>Christians</hi> may receive the Communion of Chriſt's Body and Blood without a previous <hi>Confeſsion</hi> and <hi>Abſolution</hi> by a <hi>Prieſt,</hi> was never heard of in the <hi>Catholique Church</hi> until the days of <hi>Henry</hi> the <hi>VIII.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:64986:8"/>The third difficulty was the Anſwer given by <hi>Protestants</hi> to that Queſtion in the late Kings Papers, <hi>Where is that one Holy Catholique and Apostolique Church which we do profeſs to believe in the two Creeds?</hi> Was there any ſuch Society as <hi>one Holy Catholick Church</hi> extant upon the face of the Earth when <hi>Cranmer</hi> began his <hi>Reformation?</hi> And what Provinces of the Earth did this Church inhabit? This is a plain Queſtion, and deſires no Anſwer but of the <hi>ubi</hi> or place where to find it, This Society, if it be not an <hi>Idea Platonica,</hi> muſt appear ſome<g ref="char:EOLhyphen"/>where: And when That is known, the next doubt is, Did <hi>Cranmer</hi> believe himſelf a Member of it? and if ſo, I would fain know who gave him Authority to <hi>Reform</hi> this <hi>one Holy Catholique and Apoſtolique Church;</hi> To ſet up Altar againſt Altar, <hi>&amp;c.</hi> If there were no ſuch Church extant upon the face of the Earth, as there muſt be none, in caſe ſhe were lapſed into <hi>Idolatry,</hi> what became of our Saviours Pre<g ref="char:EOLhyphen"/>diction, that the <hi>Gates of Hell ſhall never prevail againſt his Church?</hi> I am told that Dr. <hi>S</hi> —<hi>eet</hi> has anſwer'd theſe Queſtions, by ſaying, that the Church of <hi>Rome</hi> are <hi>Idolaiers,</hi> and yet a true Church at the ſame time: Which Anſwer I confeſs I do not underſtand. For <hi>what agreement hath the Temple of God with Idols,</hi> (ſaith St. <hi>Paul</hi>) <hi>and what concord hath Christ with</hi> Belial? <hi>For ye are the Temple of the living God, what communion hath light with darkneſs?</hi> 2 Cor. 6.16. What? <hi>Ido<g ref="char:EOLhyphen"/>laters,</hi> and yet a true Church? 'tis as much as to ſay, they are in the way to Heaven and Hell at the ſame time. But ſuch Anſwers muſt the given when there are no better. I confeſs I never read this Anſwer in him, I only have it by Hear-ſay. Surely, to teach and practiſe <hi>Ido<g ref="char:EOLhyphen"/>latry,</hi> deſtroys the very <hi>Being</hi> of a <hi>Christian Church.</hi> And it the Church of <hi>Rome</hi> be no <hi>Christian Church,</hi> there is an end of the <hi>Epiſcopal Suc<g ref="char:EOLhyphen"/>ceſſion</hi> of the Church of <hi>England,</hi> and conſequently of the Church it ſelf.</p>
+            <p>To conclude, that which oblig'd me moſt of all to the Church of <hi>Rome,</hi> was the peruſal of her <hi>Books of Devotion;</hi> ſuch as Saint <hi>Francis Sales</hi> Biſhop of <hi>Geneva,</hi> his <hi>Introduction to a Devout Life.</hi> Neirember<g ref="char:EOLhyphen"/>gius <hi>of the difference betwixt Temporal and Eternal.</hi> Lewis Gratenſis <hi>of the Love of God.</hi> Kempis <hi>of the following of Chriſt,</hi> &amp;c. Eſpecially the <hi>Maſs</hi> it ſelf; which I read without prejudice, and compar'd the <hi>Spirit of Piety,</hi> which I found there, with the <hi>Spirit of Reformation.</hi>
+            </p>
+            <p>Inſtead of <hi>Idolatry,</hi> I found the moſt Elevated and Judicious <hi>Prayers</hi> to the <hi>Holy Trinity;</hi> concluding in the Name or our Saviour Jeſus
+<pb n="8" facs="tcp:64986:9"/>Chriſt; beſides the daily Sacrifice offered up to Almighty God, ac<g ref="char:EOLhyphen"/>cording to his own appointment, <hi>Do this in remembrance of me.</hi> All this I obſerv'd, and then ſaid within my ſelf, God forgive the wick<g ref="char:EOLhyphen"/>edneſs of thoſe people who quarrel at this, and perſecute it with ſo blind and furious an averſion. So did the <hi>Jews</hi> Crucify our Saviour.</p>
+            <p>What fault can any ingenious <hi>Protestant</hi> find with This, or any other Prayer of the <hi>Maſs? Suſcipe ſancte Pater, omnipotentes aeterne Deus hanc immaculatam hostiam quam ego indignus famulus tuus offero tibi Deo meo vivo &amp; vero,</hi> &amp;c. <hi>Accept, O Holy Father Almighty and Eternal God, this unſpotted Sacrifice which I thy unworthy Servant offer unto thee, my living and true God, for my innumerable ſins, offences and negligences, and for all here preſent, as alſo for all Faithful Chriſtians both living and dead, that it may avail both Me and Them unto everlaſting life,</hi> Amen. If this be the <hi>Maſs,</hi> who but a perverſe ill-natur'd <hi>Pha<g ref="char:EOLhyphen"/>natick</hi> can except againſt it?</p>
+            <p>As for the <hi>Confiteor</hi> ſaid at the beginning of <hi>Maſs,</hi> the Reader ſhall find <hi>Proteſtants</hi> objecting nothing againſt it, but what <hi>Presbyterians</hi> do againſt that <hi>Canticle</hi> in the <hi>Common-Prayer-Book,</hi> called, <hi>Benedicte omnia opera. O Ananias, Azarias and Miſael, Praiſe ye the Lord,</hi> is a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rank <hi>Popery</hi> with the <hi>Presbyterians,</hi> as any thing in the <hi>Maſs,</hi> or <hi>Li<g ref="char:EOLhyphen"/>tanies</hi> of our <hi>Lady.</hi> For what's that (ſay they) but to invocate dead men, who don't hear us. Thus they will interpret it in their <hi>own Senſe,</hi> and not in the Senſe of the Church of <hi>England.</hi>
+            </p>
+            <p>In a word, I found the Church of <hi>England</hi> beholding to the <hi>Maſs</hi> for the beſt Flowers in her <hi>Communion Service.</hi> And ſince ſome <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> will believe nothing but their <hi>Senſes,</hi> let them read it as I have done, and believe their own eyes. The objection of its being ſaid in the <hi>Latin Tongue,</hi> allows every man to hear it that underſtands <hi>Latin.</hi> And as for unlearned <hi>Catholicks,</hi> if the Truth were known, they underſtand as much or more of it than <hi>Illiterate Proteſtants</hi> do of the <hi>Common-Prayer.</hi> What does the <hi>Proteſtant</hi> Multitude underſtand of the Predictions of <hi>Iſaiah, Jeremiah, Ezekiel, Daniel, Zechariah,</hi> read in their Churches by appointment of the <hi>Common-Prayer?</hi> How many Expoſitions of the <hi>Maſs</hi> are extant in Print by the command<g ref="char:EOLhyphen"/>ment of the Church? So that no man can be ignorant of it that de<g ref="char:EOLhyphen"/>ſires to be inform'd. How much more Univerſal and Vulgar is the <hi>Latin</hi> than the <hi>Engliſh</hi> Tongue? Had not the <hi>Jewiſh</hi> Church, (being then the only true Church in the World) almoſt all her Scriptures and publick Service for <hi>fourteen Generations,</hi> that is to ſay, from the
+<pb n="9" facs="tcp:64986:9"/>Captivity of <hi>Babylon</hi> unto Chriſt in the old <hi>Hebrew?</hi> A Language not then underſtood by the common People. Did our Saviour or his Apoſtles ever reprehend the <hi>Jews</hi> for this? or for not Tranſlating their Scriptures into the vulgar Language? If the Service of God muſt be ſaid in the Maternal Language of every Nation, where ſhall an <hi>Engliſh</hi>-man in <hi>France</hi> or <hi>Spain,</hi> that underſtands not the Language, go to ſerve God upon the <hi>Lord's Day?</hi> This would deſtroy all com<g ref="char:EOLhyphen"/>munity of <hi>Sacraments</hi> and <hi>Liturgy</hi> between the Members of the <hi>Catho<g ref="char:EOLhyphen"/>lick Church;</hi> which being <hi>one Body</hi> or Society of men, cannot be like the builders of <hi>Babel,</hi> who would not underſtand one anothers Lan<g ref="char:EOLhyphen"/>guage. <hi>Now I beſeech you Brethren,</hi> (ſaith St. <hi>Paul,</hi>) <hi>by the Name of our Lord Jeſus Chriſt, that ye all ſpeak the ſame thing, and that there be no Schiſms among you, that ye may with one mind and one mouth Glori<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y God,</hi> 1 Cor. 1.10. Rom. 15.6.</p>
+            <p>In fine, let the Reader compare that Devotion which <hi>Catholicks</hi> pay to the <hi>Sacrifice</hi> of the <hi>Maſs,</hi> with that which moſt <hi>Proteſtants</hi> ſhew to the <hi>Common-prayer,</hi> and then ſee how much better we are by <hi>Re<g ref="char:EOLhyphen"/>forming</hi> the <hi>Maſs</hi> into <hi>Engliſh.</hi> As for St. <hi>Paul</hi>'s 14th. Chapter of his firſt Epiſtle to the <hi>Corinthians,</hi> I humbly think it not well underſtood by <hi>Protestants. If any man be ignorant,</hi> ſaith he, <hi>let him be ignorant, Wherefore Brethren, covet no Prophecy, and forbid not to ſpeak with tongues,</hi> ver. 39. <hi>God is not the Author of Confuſion, but of Peace,</hi> ver. 33.</p>
+            <p>Upon the whole matter, I deſire to be inform'd whether the <hi>Pro<g ref="char:EOLhyphen"/>teſtant Church</hi> had any other foundation (ſetting aſide an <hi>Act of Par<g ref="char:EOLhyphen"/>liament,</hi>) than every mans own <hi>Reaſon,</hi> or which is the ſame thing, the Scripture interpreted by every man's <hi>Reaſon.</hi> There are but two <hi>Baſes</hi> whereupon to ſettle our ſelves, the <hi>Scripture,</hi> and <hi>Fathers</hi> ex<g ref="char:EOLhyphen"/>pounded by my own Reaſon, or the Scriptures and Fathers ex<g ref="char:EOLhyphen"/>pounded by the voice of the preſent Viſible Church. This later is <hi>Popiſh,</hi> and cannot ſupport a Reform'd <hi>Fabrick.</hi>
+            </p>
+            <p>I have ſometimes wonder'd at this Aſſertion of <hi>Calvin, Instit. lib.</hi> 4. <hi>cap.</hi> 1. (ſo incoherent with his own <hi>Principles</hi> of <hi>Reformation,</hi>) <hi>Extra Eccleſiae gremium nulla ſperanda ſalus nec remiſſio peccatorum, quia non est alius in vitam ingreſſus;</hi> Which I think may be thus render'd into <hi>Engliſh: He that will enter into Life, let him mortifie the pride of his own Reaſon, and humbly caſt himſelf at the feet of the</hi> Catholick Church. If this be the meaning of his words, as it muſt be in caſe he believed any ſuch thing as <hi>one Holy Catholick Church;</hi> how he will juſtifie his <hi>Reformation</hi> at the day of Judgement, I cannot imagine.</p>
+            <p>
+               <pb n="10" facs="tcp:64986:10"/>In this Paper therefore I preſume not to aſſert my own <hi>Reaſon</hi> (which I confeſs to be as weak as any body elſe can think it,) but the Authority of the <hi>Church</hi> againſt the <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rogance</hi> of the firſt <hi>Reformers.</hi> This difference I underſtand betwixt the ſpirit of <hi>Catholiques</hi> and of <hi>Heretiques;</hi> the former make uſe of their Reaſon with Submiſſion, the later with Contradiction and <hi>Petulancy</hi> againſt the Church, and againſt the expreſs words of Chriſt; <hi>He that heareth you, heareth me; and he that deſpiſeth you, deſpiſeth me.</hi>
+            </p>
+            <p>
+               <hi>Cranmer</hi> had no Miſſion from Heaven, nor yet from the preſent Viſible Church to authorize his doings; but made himſelf <hi>Judge, Witneſs,</hi> and <hi>Accuſer.</hi> So did <hi>Luther,</hi> ſo did <hi>Calvin, Socinus, Knip<g ref="char:EOLhyphen"/>perdoling,</hi> &amp;c. How they will Anſwer it at the laſt day, I cannot un<g ref="char:EOLhyphen"/>derſtand.</p>
+            <p>A word or two more before I make an end. I know divers Loyal Perſons of the Church of <hi>England,</hi> who are <hi>Proteſtants</hi> by the Ty<g ref="char:EOLhyphen"/>ranny of Prejudice or Intereſt, but <hi>Catholiques</hi> by Inclination: Of them I beg leave to ask a few Queſtions. What <hi>Prieſthood</hi> or <hi>Holy Orders</hi> have <hi>Proteſtants,</hi> but what they Confeſs to have received from <hi>Roman Catholique Biſhops?</hi> Who gave them Authority to pronounce themſelves <hi>Sound Members,</hi> and the Church of <hi>Rome</hi> a <hi>Corrupt Arm</hi> of the <hi>Catholique</hi> Church? Did not the <hi>Presbyterians, anno</hi> 1641. pre<g ref="char:EOLhyphen"/>tend the very ſame warrant of Scripture for <hi>Reforming</hi> the Church of <hi>England?</hi> And the <hi>Independants</hi> for ſupplanting the <hi>Presbyterians, anno</hi> 1647. <hi>The</hi> Presbyterians (ſaid <hi>Hugh Peters</hi>) <hi>are no other then</hi> Gibeonites, <hi>who may help to hew Stones, and ſquare Timber for a more Glorious Reformation.</hi>
+            </p>
+            <p>Now as for <hi>Roman Catholiques,</hi> do they ever ſay <hi>Maſs</hi> to any other Object, but the <hi>Living God, Father, Son,</hi> and <hi>Holy Ghost?</hi> Read the <hi>Catechiſm</hi> of the Council of <hi>Trent,</hi> and ſee whether they attribute any thing to <hi>Angels</hi> or <hi>Saints,</hi> but as the Miniſters and Favourites of the Living God, receiving from him whatever underſtanding they may have of our Affairs upon earth. The Angels muſt know our Affairs, becauſe <hi>They are miniſtring Spirits, ſent forth for the good of thoſe who ſhall be Heirs of Salvation;</hi> And becauſe they rejoyce at the Converſion of Sinners: And have <hi>glorified Saints</hi> no Communication or Intelligence with the <hi>Angels?</hi> As for the <hi>Images</hi> of Chriſt's humane Nature, ſee the 25th. Seſſion of the Council of <hi>Trent,</hi> and enquire whether <hi>Roman Catholiques</hi> pay any more reſpects to Them, than <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> do to the Elements of Bread and Wine, which (ſay they)
+<pb n="11" facs="tcp:64986:10"/>are but a Figure or <hi>Image</hi> of Chriſts Body and Blood. <hi>Omnis Super<g ref="char:EOLhyphen"/>ſtitio in imaginum uſu ſacro tollatur,</hi> ſaith that Council; Let all Super<g ref="char:EOLhyphen"/>ſtition be taken away in the uſe of <hi>Images;</hi> and then gives it in charge to all <hi>Biſhops</hi> to look to it. The Church of <hi>England Pro<g ref="char:EOLhyphen"/>teſtants</hi> are every jot as offenſive to us (ſay the <hi>Presbyterians</hi>) kneeling before the Elements of Bread and Wine, as the <hi>Pupiſts</hi> kneeling be<g ref="char:EOLhyphen"/>fore the <hi>Images</hi> of Chriſt. I humbly recommend to <hi>Proteſtants</hi> the peruſal of a late Book, Entituled, <hi>Pax Vobis:</hi> And of another, ſtyled, <hi>Conſiderations upon the Council of</hi> Trent, <hi>by</hi> R. H.</p>
+            <p>I ſay no more, only give thanks to Almighty God with all my heart, that I am eſcap'd out of the unſtable waters of <hi>Schiſm</hi> into the Ark of Chriſt's Church. And I beſeech him to inſpire me with that <hi>Spirit</hi> of Devotion which I obſerv'd in the <hi>Maſs,</hi> and other Books of <hi>Catholicks.</hi> As for the ill practiſes of ſome, and the ill Opinions of other <hi>Roman Catholicks,</hi> which <hi>Proteſtants</hi> are wont to charge up<g ref="char:EOLhyphen"/>on the whole Church, I paſs it over as no Argument at all: All <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> are no more Saints, than all <hi>Papists.</hi> In the Council of <hi>Trent</hi> an unprejudic'd Reader ſhall find nothing but what is Judicious and Pious. And let him view <hi>Popery</hi> not as <hi>Protestants,</hi> but as <hi>Papiſts</hi> re<g ref="char:EOLhyphen"/>preſent it, who ſhould beſt know their own Religion.</p>
+            <p>In the Church of <hi>Rome</hi> he ſhall find variety of Religious Orders, but no <hi>Schiſm,</hi> nor diſcord about their Sacraments or Liturgy. <hi>In veste Eccleſiae varietas est, ſciſſura non est.</hi> No confuſion of <hi>Sects,</hi> nor diſobedience to Superiors; but all things perform'd in excellent order, and God Almighty ſerved, as he is the Creator and Emperor of the World, with Reverence and diſtance.</p>
+            <epigraph>
+               <q>O quam dilecta ſunt Tabernacula tua Domine virtutum! concupiſcit &amp; deficit Anima mea in Atria Domini. Beati qui habitant in domo tuâ, in Saecula Saeculorum laudabunt te. <hi>Amen.</hi>
+               </q>
+               <bibl>
+                  <hi>Pſal. 84.</hi>
+               </bibl>
+            </epigraph>
+         </div>
+         <div type="postscript">
+            <pb n="12" facs="tcp:64986:11"/>
+            <head>P: S:</head>
+            <p>IF any <hi>Proteſtant Reader,</hi> inſtead of a material Anſwer to this Diſ<g ref="char:EOLhyphen"/>courſe, ſhall think fit to revile the Author, 'tis but what I expect, and what I intend to take no notice of. But I intreat him to read the following <hi>Quaeries</hi> without his Spectacles of <hi>Prejudice</hi> and <hi>Intereſt.</hi>
+            </p>
+            <div type="queries">
+               <head>Dubia quaedam ſuper Reformatione <hi>Anglicanâ.</hi>
+               </head>
+               <p>ECcleſia <hi>Anglicana</hi> vel eſt tota Eccleſia Catholica vel membrum illius, ſi membrum duntaxat, oſtende mihi ſub ſole Eccleſiam vel coetum cu<g ref="char:EOLhyphen"/>jus <hi>Sacramenta</hi> amplectitur, niſi ſit à reliquo corpore abſc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſum?</p>
+               <p>Num recipit Sacramenta <hi>Lutheranorum</hi> vel <hi>Calviniſtarum?</hi>
+               </p>
+               <p>
+                  <g ref="char:V">Ʋ</g>nde Miſſas eſt <hi>Cranmerus</hi> primus ille Reformator Eccleſiae <hi>Anglicana?</hi> quis miſit illum ad praedicandum Evangelium ſuum Reformatum? utrum li<g ref="char:EOLhyphen"/>citum ei vel honeſtum fuerit rebella<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e adverſus Eccleſiam <hi>Romanam</hi> vir<g ref="char:EOLhyphen"/>tute <hi>Miſſionis</hi> ab ea acceptae.</p>
+               <p>An liceat Epiſcopo vel Miniſtro ab Eccleſia Anglicana <hi>fugitivo</hi> praedi<g ref="char:EOLhyphen"/>care contra eam <hi>obtentu</hi> Miniſterii ab ea co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i?</p>
+               <p>
+                  <g ref="char:V">Ʋ</g>trum defectus <hi>Miſſionis</hi> ſit error in fundamentis? ratio dubitandi eſt, quia furtum &amp; latrocinium eſt non <hi>ingredi per Oſtium in Ovile.</hi>
+               </p>
+               <p>
+                  <g ref="char:V">Ʋ</g>trum <hi>Cranmerus</hi> intravit per Ostium <hi>Parliamentarium</hi> vel forſan per Portam <hi>Scripturarum?</hi> at haec eſt cantilena omnium Sectariorum Scripturas ſibi vendicantium. Quaero igitur nonne varius &amp; multiplex eſt Scripturarum ſenſus? unde neceſse eſt aſsignari Judicem aliquem qui verum ſenſum à falſo dijudicet, niſi mavis altercari in aeternum.</p>
+               <p>Ad haec <hi>Poſtulata</hi> ſaepius quaeſivi reſponſum ſed nullum hactenus inveni. Si dixeris (quod a multis obtendi ſolet) <hi>Cranmerum</hi> cum ſuis ſodalibus Or<g ref="char:EOLhyphen"/>dines Sacros accepiſſe a Chriſto &amp; Apoſtolis per manus Epiſcopo um <hi>Ponti<g ref="char:EOLhyphen"/>ficiorum,</hi> ſequitur Epiſcopos Pontificios ſuos etiam Ordines a Chriſto &amp; Apoſtolis accepiſſe. Sunt ergo veri paſtores ac proinde Audiendi. Hoc re<g ref="char:EOLhyphen"/>spouſo videntur mihi jugulare cauſam ſuam <hi>Proteſtantes.</hi> At, inquies, <hi>Epiſcopi Pontificii</hi> ordines ſuos non <hi>Doctrinam</hi> acceperunt a Chriſto &amp; Apostolis; egregie. Cupio ergo doceri quâ uthoritate inſurrexerunt Primi Reformatores adverſus <hi>Doctrinam</hi> Eccleſiae <hi>Romanae?</hi> aut hic no<g ref="char:EOLhyphen"/>dus ſolvendus eſt, aut ſimul agis &amp; Judicem &amp; teſtem &amp; Accuſatorem.</p>
+               <p>
+                  <pb n="13" facs="tcp:64986:11"/>Sed plerum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> responderi ſolet, cuilibet Genti competere jus reformandi ſe<g ref="char:EOLhyphen"/>ipſam: eſto. Ergo pari jure Reſormata fuit gens Scotica ad <hi>Calviniſmum,</hi> Saxonica ad <hi>Lutheraniſmum,</hi> &amp;c. deinde jalſum eſt quod ſacta erat mu<g ref="char:EOLhyphen"/>tatio Religi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nis in <hi>Anglia</hi> ex vo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Genti &amp; cleri <hi>Anglicani,</hi> ſed ex Ver<g ref="char:EOLhyphen"/>tigine pauco<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m res novas quaerentium ſub pueritia <hi>Edwardi</hi> Sexti. Lege illo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um temporum Annales, ubi palam eſt Epiſcopos ſere omnes (<hi>Cranmero</hi> &amp; paucis aliis exceptis) a novo Evangelio abhorruiſſe</p>
+               <p>Caeterum dato hoc &amp; non conceſſo, nempe Reformatam fuiſſe Religionem ex mente potioris partis <hi>Cle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i Anglicani;</hi> neſcio an licuit <hi>Eccleſiae Angli<g ref="char:EOLhyphen"/>canae,</hi> cum eſſet Membrun. <hi>Eccleſiae Catholicae,</hi> ſemet abſcindere a Reli<g ref="char:EOLhyphen"/>quo corpo e. Si dixeris hoc ſactum fuiſſe non vitio <hi>Eccleſiae Anglicanae</hi> ſed <hi>Romanae</hi> corruptelas ſuas <hi>Orbi</hi> obirudentis, respondeo breviter, quod ſe <hi>Judice</hi> omnis haereticus abſolvitur. Praeterea animadvertat Lector hoc ipſum ſolere objici ab omnibus <hi>Presbyterianis</hi> defectionem ſuam ab <hi>Eccle<g ref="char:EOLhyphen"/>ſia Angicana</hi> excuſantibus, uimirum ſo reliquiſſe non niſi errores &amp; corrup<g ref="char:EOLhyphen"/>telas <hi>Anglicanae Religionis.</hi>
+               </p>
+               <p>An per <g ref="char:V">Ʋ</g>niverſum Orbem depravatus fuit verus Dei cultus ante ortum <hi>Cranmerum?</hi> ſi non, dic mihi ubinam gentium exti erit? An apud <hi>Wal<g ref="char:EOLhyphen"/>denſes?</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſcio unde Miſſus eſt <hi>Petro Waldo</hi> Alercator <hi>Lugdunenſis?</hi> nec ſcio an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>j<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>Sacramenta</hi> placeant <hi>Eccleſiae Anglicanae.</hi>
+               </p>
+               <p>
+                  <g ref="char:V">Ʋ</g>t um ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie extra Regnum <hi>Angliae</hi> &amp; <hi>Hiberniae</hi> nullus extet purus &amp; Apoſtolicus Dei cultus.</p>
+               <p>
+                  <g ref="char:V">Ʋ</g>trum liceat populo <hi>Anglicano</hi> comminiſci ſibi Eccleſiam a toto <hi>Orbe</hi> diviſam? quae Authoritate damnat <hi>Sacramenta</hi> &amp; Ritus <hi>Eccleſiae Ro<g ref="char:EOLhyphen"/>manae?</hi>
+               </p>
+               <p>
+                  <g ref="char:V">Ʋ</g>trum <hi>Cranmerus</hi> fuit primus Archiepiſcopus <hi>Eccleſiae Anglicanae?</hi> Ratio dubitandi eſt, quia Archiepiſcopi <hi>Cantuarienſes</hi> per novem antece<g ref="char:EOLhyphen"/>dentia ſaecula fuerunt omnes <hi>Pontificii.</hi> Si primus fuit, ergo deſuit ei ſucceſſio Epiſcopalis, quia primus ſuae Sectae nuli ſucceſsit. An fuerit le<g ref="char:EOLhyphen"/>guimus P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtor cui deëarant Succeſsio <hi>Miſſio</hi> &amp; <hi>Miracula?</hi>
+               </p>
+               <p>
+                  <g ref="char:V">Ʋ</g>trum ſit ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a Eccleſia quae non h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bet legitimos Paſtores? Vel an poſ<g ref="char:EOLhyphen"/>ſint eſſe vera <hi>Sacramenta</hi> apud Pastores non veros? Si non, ergo praeſtat communicare ſub <hi>una ſpecie</hi> cumCatholicis quam ſub <hi>nulla</hi> cum Reformatis.</p>
+               <p>
+                  <g ref="char:V">Ʋ</g>trum <hi>39</hi> Articuli <hi>Eccleſiae Anglicanae</hi> ſint Articuli ſi ei vel non? Sinon; ergo nemo tenetur fidem habere iliis ſub periculo ſalutis. Si ſic, ergo <hi>Eccleſia Anglicana</hi> novos excogitavit ſidei Articulos praeter duode<g ref="char:EOLhyphen"/>cim illos a Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſto &amp; Apoſtolis inſtitutos.</p>
+               <p>
+                  <g ref="char:V">Ʋ</g>trum Religio <hi>Reformata</hi> ſit diviſibilis in ſemper diviſibiles?</p>
+               <p>
+                  <pb n="14" facs="tcp:64986:12"/>An in re <hi>Euchariſtica</hi> Argumentum a ſenſibus ductum ſit fallibile? Ratio dubitandi eſt quia <hi>Serpens</hi> primos fefellit Parentes ſuadendo illis ut ſuis crederent oculis, ſcilicet <hi>comederent de ligno ſcientiae quia erat pulchrum oculis.</hi> Quod ſi ab oculis ſuis deceptum fuit <hi>genus huma<g ref="char:EOLhyphen"/>num,</hi> quaeſo unde pus fidei meruerunt caeteri ſenſus?</p>
+               <p>
+                  <g ref="char:V">Ʋ</g>trum <hi>Eccleſia Anglicana</hi> mutabilis ſit ad nutum <hi>Parliamenti?</hi>
+               </p>
+               <p>
+                  <g ref="char:V">Ʋ</g>trum Spiritus <hi>Calvini</hi> negantis ac <hi>Lutheri</hi> affirmantis Corporalem Chriſtum praeſentiam in <hi>Euchariſtia</hi> ſint idem? Si diverſi, ergo uter<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> a Deo eſſe non potest.</p>
+               <p>Nonnè impudentiſsimus fuit. <hi>Johannes Calvinus</hi> uſurpato ſibi <hi>munere</hi> reformandi <hi>Orbem</hi> cum Juvenis eſſet vigenti ſex annorum id<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> abſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> omni praetextu Mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aculorum, quod nè ipſe <hi>Chriſtus</hi> ſuſceperat ante an<g ref="char:EOLhyphen"/>num <hi>trigeſimum?</hi>
+               </p>
+               <p>An ex utero Reformationis eſſluxerint Caedes, rapinae, direptiones tem<g ref="char:EOLhyphen"/>plorum, tumultus, Schiſmata &amp; bella civilia quae emerſerunt Anno <hi>1641.</hi>
+               </p>
+               <p>
+                  <g ref="char:V">Ʋ</g>trum <hi>Africa</hi> feracior ſit Monſtrorum quam <hi>Britannia</hi> Fanaticorum, ubi nulli non licèt intelligere Scripturas pro ſuo <hi>judicio diſcretionis?</hi>
+               </p>
+               <p>
+                  <g ref="char:V">Ʋ</g>trum <hi>Eliſabethae</hi> ex <hi>Annâ Bolenâ</hi> ſuſcepta, vivente adhuc Regina <hi>Katherinâ,</hi> legitimos habuit natales?</p>
+               <p>
+                  <g ref="char:V">Ʋ</g>trum laudanda ſit ſapientia <hi>Henrici VIII.</hi> qui expulſo uno <hi>Papá Romano</hi> ſuſcitavit <hi>infinitos Papas</hi> ex ſuis ſubditis;</p>
+               <p>Qua Autoritate uxorem ſuam <hi>Katherinam</hi> repudiavit <hi>Henricus?</hi> Sut, vel alienâ? Si ſuâ quidni poſſint &amp; alii Reges pro libitu ſuas dimittere uxores? Quod <hi>ſi Maria</hi> filia ejus ex <hi>Katherina</hi> fuit legitima Regni hae<g ref="char:EOLhyphen"/>res, ergo <hi>Elizabetha</hi> non fuit; quia <hi>Henrico</hi> non licuit habere duas uxo<g ref="char:EOLhyphen"/>res ſimul.</p>
+               <p>Si nefas ſit mutare Religionem <hi>Parliamentariâ</hi> Autoritate ſtabilitam, und<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> licuit <hi>Elizabethae</hi> religionem evertere <hi>Catholicam</hi> Regni legibus ſta<g ref="char:EOLhyphen"/>bilitam? <hi>14</hi> Epiſcopos <hi>Catholicos</hi> è ſedibus ſuis expulit <hi>Elizabetha</hi> ob recuſatum juramentum Primatûs. At quomodo poterant jurare eam eſſe caput Eccleſiae, quando non poterant jurare eam eſſe caput Regni?</p>
+               <p>Nonnè Liturgiam ſuam ſuffuratus eſt <hi>Cranmerus</hi> ex <hi>Miſſali, Rituali</hi> &amp; <hi>Breviario Romano?</hi>
+               </p>
+               <p>Nonnè Juramento Primatus tenentur <hi>Proteſtantes</hi> obtemperare Regi <hi>ut ſupremo Gubernatori tam in omnibus ſpiritualibus ſive Eccleſiaſti<g ref="char:EOLhyphen"/>cis rebus aut cauſis quam in temporalibus,</hi> &amp;c. quid ſibi volunt hac verba <hi>tam in omnibus ſpiritualibus quam temporalibus rebus aut cauſis,</hi> niſi ut <hi>Proteſtantes</hi> debeant Regi praeſtare omnimodam obedientiam tam Religioſam quam civilem? Nonne ergo ſecundum hoc juramentum
+<pb n="15" facs="tcp:64986:12"/>oportet eos eſſe <hi>Catholicos</hi> cum Rege <hi>Catholico, Calvinanos</hi> cum <hi>Cal<g ref="char:EOLhyphen"/>vinano. Arianos</hi> cum <hi>Ariano?</hi> Dico ſecundum hoc juramentum, quiae Regia Majeſtas eſt unicus ſupremus Gubernator tam in omnibus ſpirituali<g ref="char:EOLhyphen"/>bus quam temporalibus rebus. Haec verba agnoſcunt in Rege primatum tam ſpiritualem quam civilem. At unde conſtabit ejus Juriſdictio ſpiri<g ref="char:EOLhyphen"/>tualis abſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> proteſtate <hi>clavium?</hi>
+               </p>
+               <p>Dices, obſequendum eſt Rege quantum licet per leges Dei &amp; Regni; eſto. Ergo Rex non eſt ſupremum ſub <hi>Chriſto</hi> caput ſed <hi>Scriptura</hi> &amp; Statuta Regni. At ſi quod lis ſurrexerit inter Regem &amp; ſubditos de ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſenſu <hi>Scripturae,</hi> Quis erit <hi>Judex?</hi> Spiritus privatu an non? hinc, ni fallor, origo &amp; fomes bellorum civilium.</p>
+               <p>Cur <hi>Reformationem</hi> tam avid<hi rend="sup">è</hi> amplexi ſunt tot nobiles ſub <hi>Elizabetha?</hi> Ob conſcientiam an ob lucrum praediorum Eccleſiaſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icorum?</p>
+               <p>Cur plebs <hi>Anglicana</hi> novitatis avida odit <hi>Papiſmum?</hi> forſan quia <hi>Papiſmus</hi> non eſt novitas.</p>
+               <p>
+                  <hi>Eccleſia Anglicana</hi> vel est fallibilis vel infallibilis, ſi fallibilis ſit (uti fa<g ref="char:EOLhyphen"/>tentur omnes) ergo non eſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>undata ſuper <hi>Petram,</hi> quia poteſt falli &amp; fallere.</p>
+               <p>
+                  <g ref="char:V">Ʋ</g>trum ſapienter <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecit Cardinalis <hi>Wolſae<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> evertendo Monaſteria ut fundaret Collegia? ratio dubitandi est quia <hi>lignum</hi> ſcientia non fuit <hi>lignum</hi> vitae.</p>
+               <p>Nonn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in <hi>Eccleſia Anglicana</hi> deſideratur <hi>verſio</hi> Bibliorum multò emen<g ref="char:EOLhyphen"/>datior &amp; correctior? quia quam plurimis in locis Vi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iantur textus in fa<g ref="char:EOLhyphen"/>vorem <hi>carnis</hi> &amp; gra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iam <hi>Schiſmatis;</hi> exempli cauſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>Gal. 5.17. Dan. 4.24.</hi> 
+                  <g ref="char:V">Ʋ</g>bi Propheta alloquitur Regem <hi>Nebuchadonoſor</hi> ſic, <hi>quamo<g ref="char:EOLhyphen"/>brem, Rex, conſilium meum placeat tibi, &amp; peccata tua eleemoſy<g ref="char:EOLhyphen"/>nis redime, &amp; iniquitates tuas miſericordiis Pauperum.</hi> Quem tex<g ref="char:EOLhyphen"/>tum ita reddunt Biblia <hi>Anglicana</hi> ſatis vitiose. Wherefore O King, <hi>break off thy Sins by Righteouſneſs, and thy Iniquities by ſhewing Mer<g ref="char:EOLhyphen"/>cy to the Poor.</hi> Cum verti oportuit, <hi>redeem thy Sins by Alms-deeds, and thine Iniquities by ſhewing Mercy to the Poor.</hi> Praeterea mal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> red<g ref="char:EOLhyphen"/>dantur haec verba Sancti <hi>Pauli</hi> ad <hi>Corinthios, 1. Cor. 7.9.</hi> Quod ſi non ſe continent, nubant; <hi>But if they cannot contain, let them Marry?</hi> 
+                  <g ref="char:V">Ʋ</g>bi haec vox <hi>(cannot)</hi> excogitabatur in favorem <hi>carnis.</hi>
+               </p>
+               <p>Rurſus verba <hi>Chriſti</hi> corrumpuntur, <hi>Mat. 19.11.</hi> propter indulgentiam <hi>carnis</hi> ſic, non omnes capiunt verbum iſtud ſed quibus datum eſt. <hi>All Men [cannot] receive this ſaying, but ſuch to whom it is given.</hi> Deinde ver<g ref="char:EOLhyphen"/>ba <hi>Jobi</hi> c. <hi>7.1.</hi> &amp; alii textus non pauci praeſertim, <hi>Exod. 20.4.</hi> in odium <hi>imaginis</hi> Chriſti. <hi>Non facies tibi ſculptile.</hi> Quae vox ſculptile à <hi>70</hi> bene vertitur <hi>Idolum,</hi> quia Deus non prohibuit imagines ſed Idota.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
